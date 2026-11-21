@@ -91,11 +91,6 @@ The application is configured for Singapore-listed securities using Yahoo Financ
 
 Market data availability depends on the external data provider and may vary.
 
----
-
-## Dashboard Preview
-
-*Screenshots coming soon.*
 
 ---
 
